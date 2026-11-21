@@ -1,4 +1,4 @@
-# SigmaOS-arch-flutter
+# SigmaOS-flutter
 
 GitHub description is a placeholder; component scope remains unclassified.
 

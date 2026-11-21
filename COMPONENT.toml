@@ -1,5 +1,5 @@
 [component]
-name = "SigmaOS-arch-flutter"
+name = "SigmaOS-flutter"
 tier = 2
 stability = "scaffold"
 language = "rust"

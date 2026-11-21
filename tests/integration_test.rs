@@ -1,4 +1,4 @@
-use arch_flutter::Component;
+use sigmaos_flutter::Component;
 
 #[test]
 fn test_component_new_aaa() {
